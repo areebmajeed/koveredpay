@@ -1,0 +1,3 @@
+# KoveredPay
+
+Contains whitepaper, some images and contract source. PLEASE DO NOT USE THE CODE AS IT IS. IT IS ABSOLUTELY HORROR AND MAY CONTAIN ERRORS AND BUGS AS IT IS NOT THOROUGHLY TESTED. 
